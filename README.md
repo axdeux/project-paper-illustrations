@@ -11,20 +11,24 @@ Here is a heat diffusion for a longer time period with a larger graph for illust
 
 Data:
 With 10x10 grid graph
+
 Test data:
 ![](./heatwave/test0.gif)
+
 Graph network prediction:
 ![](./heatwave/pred0.gif)
 
 With 10x10 grid graph with 10 disconnected nodes
 Test data:
 ![](./heatwave/test10.gif)
+
 Graph network prediction:
 ![](./heatwave/pred10.gif)
 
 With 10x10 grid graph with 30 disconnected nodes
 Test data:
 ![](./heatwave/test30.gif)
+
 Graph network prediction:
 ![](./heatwave/pred30.gif)
 
@@ -42,17 +46,20 @@ Data:
 With 50x50 grid graph
 Test data:
 ![](./heatwave/test_no.gif)
+
 Graph network prediction:
 ![](./heatwave/prediction_no.gif)
 
 With 50x50 grid graph with 40 random disconnected nodes
 Test data:
 ![](./heatwave/test_rand.gif)
+
 Graph network prediction:
 ![](./heatwave/prediction_rand.gif)
 
 With 50x50 grid graph with walls of disconnected nodes
 Test data:
 ![](./heatwave/test_topbot.gif)
+
 Graph network prediction:
 ![](./heatwave/prediction_topbot.gif)
