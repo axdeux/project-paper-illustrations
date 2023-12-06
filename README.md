@@ -6,7 +6,7 @@ This contains the code to the project paper regarding predictions of dynalmical 
 _Heat diffusion_
 
 Here is a heat diffusion for a longer time period with a larger graph for illustration purposes.
-![](https://github.com/axdeux/project-paper/blob/heatwave/long_time_graph_50hot.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/long_time_graph_50hot.gif)
 
 Data:
 With 10x10 grid graph
