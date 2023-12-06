@@ -29,6 +29,7 @@ Test data:
 ![](./heatwave/test10.gif)
 
 Graph network prediction:
+
 ![](./heatwave/pred10.gif)
 
 With 10x10 grid graph with 30 disconnected nodes
