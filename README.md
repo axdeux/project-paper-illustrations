@@ -11,7 +11,7 @@ Here is a heat diffusion for a longer time period with a larger graph for illust
 Data:
 With 10x10 grid graph
 Test data:
-![](https://github.com/axdeux/project-paper/blob/main/test0.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/test0.gif)
 Graph network prediction:
 ![](https://github.com/axdeux/project-paper/blob/main/pred0.gif)
 
