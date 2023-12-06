@@ -15,7 +15,7 @@ _Wave propagation_
 
 Here are two wave propagations for longer time period with larger graphs for illustration purposes.
 
-![](https://github.com/axdeux/project-paper/blob/main/heatwave/long_time_test.gif)
+![](https://github.com/axdeux/project-paper/blob/main/long_time_test.gif)
 
 
 ![](https://github.com/axdeux/project-paper/blob/main/heatwave/long_time_test2.gif)
