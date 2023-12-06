@@ -74,7 +74,7 @@ Test data:
 
 Graph network prediction:
 
-![](./heatwave/prediction_rand.gif)
+![](./heatwave/prediction_random.gif)
 
 With 50x50 grid graph with walls of disconnected nodes
 
