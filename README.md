@@ -25,33 +25,33 @@ With 10x10 grid graph with 30 disconnected nodes
 Test data:
 ![](https://github.com/axdeux/project-paper/blob/main/heatwave/test30.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/pred30.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/pred30.gif)
 
 
 _Wave propagation_
 
 Here are two wave propagations for longer time period with larger graphs for illustration purposes.
 
-![](https://github.com/axdeux/project-paper/blob/main/long_time_test.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/long_time_test.gif)
 
 
-![](https://github.com/axdeux/project-paper/blob/main/long_time_test2.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/long_time_test2.gif)
 
 Data:
 With 50x50 grid graph
 Test data:
-![](https://github.com/axdeux/project-paper/blob/main/test_no.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/test_no.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/prediction_no.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/prediction_no.gif)
 
 With 50x50 grid graph with 40 random disconnected nodes
 Test data:
-![](https://github.com/axdeux/project-paper/blob/main/test_rand.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/test_rand.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/prediction_rand.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/prediction_rand.gif)
 
 With 50x50 grid graph with walls of disconnected nodes
 Test data:
-![](https://github.com/axdeux/project-paper/blob/main/test_toppbot.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/test_topbot.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/prediction_topbot.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/prediction_topbot.gif)
