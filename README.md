@@ -13,19 +13,19 @@ With 10x10 grid graph
 Test data:
 ![](https://github.com/axdeux/project-paper/blob/main/heatwave/test0.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/pred0.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/pred0.gif)
 
 With 10x10 grid graph with 10 disconnected nodes
 Test data:
-![](https://github.com/axdeux/project-paper/blob/main/test10.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/test10.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/pred10.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/pred10.gif)
 
 With 10x10 grid graph with 30 disconnected nodes
 Test data:
-![](https://github.com/axdeux/project-paper/blob/main/test30.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/test30.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/pred30.gif)
+![](https://github.com/axdeux/project-paper/blob/main/heatwave/pred30.gif)
 
 
 _Wave propagation_
