@@ -25,7 +25,7 @@ With 10x10 grid graph with 30 disconnected nodes
 Test data:
 ![](https://github.com/axdeux/project-paper/blob/main/heatwave/test30.gif)
 Graph network prediction:
-![](https://github.com/axdeux/project-paper/blob/main/heatwave/pred30.gif)
+![](https://github.com/axdeux/project-paper/blob/main/pred30.gif)
 
 
 _Wave propagation_
