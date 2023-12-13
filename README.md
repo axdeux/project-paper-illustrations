@@ -1,6 +1,6 @@
 # Project paper work
 
-This contains the illustrations to the project paper regarding predictions of dynalmical systems with Graph neural networks. The experiments are done on heat diffusion and wave propagation systems.
+This contains the illustrations to the project paper regarding predictions of dynamical systems with Graph neural networks. The experiments are done on heat diffusion and wave propagation systems.
 
 Note that some illustrations might be innacurate due to bugs in matplotlib.
 
